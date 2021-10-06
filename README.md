@@ -40,3 +40,5 @@ b) Modelling of data
 a) Built the model using linear regression to predict airbnb listing prices in New York city.
 
 ## OpenRefine video ##
+
+https://drive.google.com/drive/u/0/folders/0APteN0ITie7SUk9PVA
